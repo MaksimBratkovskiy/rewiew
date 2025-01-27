@@ -1,4 +1,4 @@
-package org.example.collectionFrame;
+package org.example.collectionFrame.firstExample;
 
 import java.util.ArrayList;
 import java.util.List;
